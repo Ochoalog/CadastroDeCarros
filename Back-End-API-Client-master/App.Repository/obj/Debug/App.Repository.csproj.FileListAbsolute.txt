@@ -1,0 +1,27 @@
+C:\Users\ochoavit\source\repos\WebAppClients\App.Repository\obj\Debug\App.Repository.csproj.AssemblyReference.cache
+C:\Users\ochoavit\source\repos\WebAppClients\App.Repository\obj\Debug\App.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ochoavit\source\repos\WebAppClients\App.Repository\bin\Debug\App.Repository.dll
+C:\Users\ochoavit\source\repos\WebAppClients\App.Repository\bin\Debug\App.Repository.pdb
+C:\Users\ochoavit\source\repos\WebAppClients\App.Repository\bin\Debug\App.Domain.dll
+C:\Users\ochoavit\source\repos\WebAppClients\App.Repository\bin\Debug\App.Domain.pdb
+C:\Users\ochoavit\source\repos\WebAppClients\App.Repository\obj\Debug\App.Repository.csproj.CopyComplete
+C:\Users\ochoavit\source\repos\WebAppClients\App.Repository\obj\Debug\App.Repository.dll
+C:\Users\ochoavit\source\repos\WebAppClients\App.Repository\obj\Debug\App.Repository.pdb
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Repository\bin\Debug\App.Repository.dll
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Repository\bin\Debug\App.Repository.pdb
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Repository\bin\Debug\App.Domain.dll
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Repository\bin\Debug\App.Domain.pdb
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Repository\obj\Debug\App.Repository.csproj.AssemblyReference.cache
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Repository\obj\Debug\App.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Repository\obj\Debug\App.Repository.csproj.CopyComplete
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Repository\obj\Debug\App.Repository.dll
+C:\Users\ochoavit\OneDrive - SNEF BRASIL\Área de Trabalho\DesafioTempus\Back-End\WebAppClients\App.Repository\obj\Debug\App.Repository.pdb
+C:\Users\vitor-ochoa\Downloads\Back-End-API-Client-master\Back-End-API-Client-master\App.Repository\bin\Debug\App.Repository.dll
+C:\Users\vitor-ochoa\Downloads\Back-End-API-Client-master\Back-End-API-Client-master\App.Repository\bin\Debug\App.Repository.pdb
+C:\Users\vitor-ochoa\Downloads\Back-End-API-Client-master\Back-End-API-Client-master\App.Repository\bin\Debug\App.Domain.dll
+C:\Users\vitor-ochoa\Downloads\Back-End-API-Client-master\Back-End-API-Client-master\App.Repository\bin\Debug\App.Domain.pdb
+C:\Users\vitor-ochoa\Downloads\Back-End-API-Client-master\Back-End-API-Client-master\App.Repository\obj\Debug\App.Repository.csproj.AssemblyReference.cache
+C:\Users\vitor-ochoa\Downloads\Back-End-API-Client-master\Back-End-API-Client-master\App.Repository\obj\Debug\App.Repository.csproj.CoreCompileInputs.cache
+C:\Users\vitor-ochoa\Downloads\Back-End-API-Client-master\Back-End-API-Client-master\App.Repository\obj\Debug\App.Repository.csproj.CopyComplete
+C:\Users\vitor-ochoa\Downloads\Back-End-API-Client-master\Back-End-API-Client-master\App.Repository\obj\Debug\App.Repository.dll
+C:\Users\vitor-ochoa\Downloads\Back-End-API-Client-master\Back-End-API-Client-master\App.Repository\obj\Debug\App.Repository.pdb
